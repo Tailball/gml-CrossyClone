@@ -1,0 +1,14 @@
+v	//1. kill monsters after leaving screen
+v	//2. check collision between monster and hero -> game over
+v	//3. decrease collision box on hero
+v	//4. apply collisions on static objects (place_meeting)
+v	//5. trap system
+v	//6. win system
+v	//7. bigger level (follow camera)
+v	//8. cant step out of level
+x	//9. polish: particle system :)
+v	//10.Spikes are hitting outside of their square
+v	//11.Camera remain at chest until fully opened, then transition hero
+v	//12.Random chance of opening empty, random opening gold.
+v	//13.If gold, you win the game
+	
